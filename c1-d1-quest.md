@@ -4,7 +4,7 @@ A blockchain is basically a secure, decentralized, permissionless database. Bloc
 
 *Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts*
 
-A smart contract is a program that runs on the blockchain whenever a certain condition is met. The purpose of smart contracts is to let users to view and edit data on the blockchain. 
+A smart contract is a program that runs on the blockchain whenever a certain condition is met. The purpose of smart contracts is to let users view and edit data on the blockchain. 
 
 *Explain the difference between a script and a transaction.*
 
